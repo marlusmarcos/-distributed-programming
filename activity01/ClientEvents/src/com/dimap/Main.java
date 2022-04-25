@@ -22,7 +22,7 @@ public static void main(String[] args) throws MalformedURLException, RemoteExcep
 		server.register(client2);
 		server.register(client3);
 		server.register(client4);
-		server.notificarSubscriber("notificando ");
+		server.notificarSubscriber("notificando sobre futebol ");
 	}
 	
 }
